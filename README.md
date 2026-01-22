@@ -312,9 +312,8 @@ I specialize in:
 - **AI-powered workflows** for threat detection and response
 
 **Let's connect:**
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- Portfolio: [Your Website]
+- LinkedIn: https://www.linkedin.com/in/kevin-sistrunk/
+- Email: kevin_sistrunk@protonmail.com
 
 ---
 
